@@ -1,4 +1,4 @@
-a = input().split()
+a = list(map(int,input().split()))
 
 if a[0]==min(a):
     print(1, end=" ")
