@@ -1,3 +1,3 @@
 a = input()
 
-print(a[3:10])
+print(a[2:10])
